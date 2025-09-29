@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there, I'm Kaylin! 👋
 
 # I’m currently working on
 ### [reimagined-travel](https://github.com/Kaylin-Chu/reimagined-travel)
@@ -9,11 +9,14 @@ This is where I plan to code a calculator where the user plugs in data (numbers)
 It will be built with Typescript, I'm building this calculator because I want it to solve my own questions around whether I should be investing more or paying off my mortgage.
 ### [pokemon-arcade](https://github.com/hotoke-2025/pokemon-arcade)
 Pokemon Arcade is a game platform I developed with a talented team. It creates a fun atmosphere where users can fight pokemon, guess pokemon or play tic-tac-toe with unown (Pokemon 201). We built this app using React, Tailwind CSS, Express, and The Pokemon API. This project showcases my collaborative skills and ability to build full-stack applications under tight deadlines.
-
-# I’m currently learning ...
-# I’m looking to collaborate on ...
-# I’m looking for help with ...
-# Ask me about ...
-# How to reach me: ...
-# Pronouns: She / Her
-# Fun fact: ...
+# Ask me about:
+- My latest projects
+- My favourite eats in Wellington
+- Sustainability
+- NZ Politics
+# How to reach me:
+[LinkedIn](https://www.linkedin.com/in/kaylin-chu-4b3858248/)
+# Pronouns: 
+She / Her
+# Fun fact:
+I'm currently learning to surf after buying a board from Earthlink
