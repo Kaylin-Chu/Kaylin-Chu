@@ -13,7 +13,6 @@ Pokemon Arcade is a game platform I developed with a talented team. It creates a
 - My latest projects
 - My favourite eats in Wellington
 - Sustainability
-- NZ Politics
 # How to reach me:
 [LinkedIn](https://www.linkedin.com/in/kaylin-chu-4b3858248/)
 # Pronouns: 
