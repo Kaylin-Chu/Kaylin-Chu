@@ -9,9 +9,12 @@ This is where I plan to code a calculator where the user plugs in data (numbers)
 It will be built with Typescript, I'm building this calculator because I want it to solve my own questions around whether I should be investing more or paying off my mortgage.
 ### [pokemon-arcade](https://github.com/hotoke-2025/pokemon-arcade)
 Pokemon Arcade is a game platform I developed with a talented team. It creates a fun atmosphere where users can fight pokemon, guess pokemon or play tic-tac-toe with unown (Pokemon 201). We built this app using React, Tailwind CSS, Express, and The Pokemon API. This project showcases my collaborative skills and ability to build full-stack applications under tight deadlines.
+# Previous projects
+### [Tic-Tac-Toe](https://github.com/Kaylin-Chu/tic-tac-toe)
+A 2-player classic Tic-Tac-Toe game. This was one of my first builds with JavaScript, this project showcases my preserverance and passion for game development.
 # Ask me about:
 - My latest projects
-- My favourite eats in Wellington
+- My favourite eats
 - Sustainability
 # How to reach me:
 [LinkedIn](https://www.linkedin.com/in/kaylin-chu-4b3858248/)
