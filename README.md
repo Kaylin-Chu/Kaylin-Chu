@@ -19,8 +19,8 @@ A full‑stack web app built with Node, Express, Knex, and React (with React Que
 - My favourite eats
 - Sustainability
 # How to reach me:
-[LinkedIn](https://www.linkedin.com/in/kaylin-chu-4b3858248/)
-[Download my CV - Oct 2025](https://github.com/Kaylin-Chu/Kaylin-Chu/raw/main/Kaylin%20Chu%20CV%2010_25.pdf)
+- [LinkedIn](https://www.linkedin.com/in/kaylin-chu-4b3858248/)
+- [Download my CV - Oct 2025](https://github.com/Kaylin-Chu/Kaylin-Chu/raw/main/Kaylin%20Chu%20CV%2010_25.pdf)
 # Pronouns: 
 She / Her
 # Fun fact:
