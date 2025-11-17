@@ -25,3 +25,5 @@ A full‑stack web app built with Node, Express, Knex, and React (with React Que
 She / Her
 # Fun fact:
 I'm currently learning to surf after buying a board from Earthlink
+I'm also learning to knit on a loom after failing to learn how to knit in the 2020 lockdown
+As a teenager, I tramped in the himalayan mountains to Annapurna Base Camp. ABC > EBC 
