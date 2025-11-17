@@ -15,8 +15,8 @@ A 2-player classic Tic-Tac-Toe game built with JavaScript. This was one of my fi
 ### [Shopping-List-Full-Stack](https://github.com/Kaylin-Chu/Shopping-List-Full-Stack)
 A full‑stack web app built with Node, Express, Knex, and React (with React Query) that enables users to maintain a 'shopping list'. The back end includes database migrations, seeds, and RESTful API routes. The front end demonstrates data fetching and mutation. It was a project to enhance learning by structuring a full stack app end to end.
 # Ask me about:
-- My latest projects
-- My favourite eats
+- My latest projects - most recently [reimagined-travel](https://github.com/Kaylin-Chu/reimagined-travel)
+- My favourite Welly eats - currently [Graze Wine Bar](https://grazewinebar.co.nz/)
 - Sustainability
 # How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/kaylin-chu-4b3858248/)
